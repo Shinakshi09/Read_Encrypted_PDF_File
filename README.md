@@ -40,5 +40,4 @@ Append this namedtuple inside the empty list and convert this list into datafram
 
 **Dataset** 
 File contains pages like following:
-![z](https://user-images.githubusercontent.com/87409887/125751467-e14ab795-c62a-4827-b680-b5ff3888641c.PNG)
 
